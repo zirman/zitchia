@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zitchia.iml" filepath="$PROJECT_DIR$/.idea/modules/zitchia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zitchia_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zitchia_main.iml" group="zitchia" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zitchia_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zitchia_test.iml" group="zitchia" />
+    </modules>
+  </component>
+</project>
